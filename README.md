@@ -1,6 +1,10 @@
 # StarLight
 Military route finding AI model using satellite imagery
-- VS Code (Streamlit, Python, JavaScript, CSS), Colab (Python, JavaScript)
+- **VS Code (Streamlit, Python, JavaScript, CSS), Colab (Python, JavaScript)**
 - Date Source : AI-Hub(korea)
 - Main Function: Object(Buildings, Roads, Field) Detection, Variable Processing, Route Finding
 - Utilizing Satellite imagery (Not for general map)
+
+[ StarLight_model.ipynb ]  is a model generator
+
+Rest of the .py files are UI/UX + Framework
