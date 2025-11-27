@@ -1,0 +1,8 @@
+# 1. 필수 라이브러리 설치 - CMD 창에 입력
+pip install segmentation-models-pytorch albumentations rasterio shapely geopandas koreanize_matplotlib
+pip install matplotlib
+pip install streamlit
+pip install scikit-image
+pip install streamlit-drawable-canvas
+pip install streamlit-image-coordinates
+
